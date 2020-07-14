@@ -192,9 +192,9 @@ MonoBehaviour:
   rightMuzzle: {fileID: 8014955896771834956}
   boost: {fileID: 5220980754349958488}
   leftArm: {fileID: 5383407478676865375}
-  RightArm: {fileID: 5383407478676865361}
+  rightArm: {fileID: 5383407478676865361}
   missilePoint: {fileID: 571590668128388951}
-  leftLight: {fileID: 0}
+  leftLight: {fileID: 5383407478895187436}
   rightLight: {fileID: 5383407478058462837}
   speed: 4
 --- !u!1 &5383407478058462835
@@ -300,7 +300,7 @@ GameObject:
   - component: {fileID: 5383407478895187437}
   - component: {fileID: 5383407478895187436}
   m_Layer: 0
-  m_Name: Left Right
+  m_Name: Left Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
